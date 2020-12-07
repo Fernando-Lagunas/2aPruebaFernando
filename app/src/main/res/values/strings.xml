@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">2aPruebaFernando</string>
+    <string name="producto">Memoria Ram HyperX de 32GB DDR4 a 3600Mhz</string>
+    <string name="precio">Precio: $</string>
+    <string name="precio_memoria">195000</string>
+    <string name="cantidad">Cantidad:</string>
+    <string name="agregar">AGREGAR AL CARRO DE COMPRA</string>
+    <string name="comprar">COMPRAR</string>
+    <string name="pago_total">Pago Total:</string>
+    <string name="descripcion">Descripcion del producto:</string>
+    <string name="pagar">PAGAR</string>
+</resources>
